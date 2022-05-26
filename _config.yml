@@ -1,17 +1,17 @@
 # Site settings
 title: Klise Theme # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  An aspiring cool kid from Singapore.
+  Writing about random tech related processes and tools that has no immediate real-world value.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+timezone: Asia/Singapore # set your timezone
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/ 
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Yee Yang Tee # author name
   bio: >- # tell to the world
     The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
     meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
@@ -23,10 +23,10 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://yeeyangtee.com" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: 
 fb_appid:
 
 # Collection setting
